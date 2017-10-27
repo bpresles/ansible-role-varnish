@@ -2,8 +2,8 @@
 dependencies: []
 
 galaxy_info:
-  author: geerlingguy
-  description: Varnish for Linux.
+  author: bpresles
+  description: Varnish for Docker.
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
   min_ansible_version: 2.2
